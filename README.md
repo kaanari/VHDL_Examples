@@ -17,4 +17,4 @@ You should find testbench files of all designs in the same directory.
 
 👤 **Kaan ARI**
 
-Twitter: [@AnbarAhmet](https://twitter.com/kaanaritr) | Github: [@ahmetanbar](https://github.com/kaanaritr)
+Twitter: [@kaanaritr](https://twitter.com/kaanaritr) | Github: [@kaanaritr](https://github.com/kaanaritr)
